@@ -1,0 +1,79 @@
+[I 21:07:30.394 NotebookApp] Serving notebooks from local directory: /home/halaka/RECONSTRUCTION
+[I 21:07:30.394 NotebookApp] The Jupyter Notebook is running at:
+[I 21:07:30.394 NotebookApp] http://localhost:8080/?token=1faf9f251cadc595c05b88f99fd37eab4e8c2ce8583caa18
+[I 21:07:30.394 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:07:30.397 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/halaka/.local/share/jupyter/runtime/nbserver-133591-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8080/?token=1faf9f251cadc595c05b88f99fd37eab4e8c2ce8583caa18
+[I 21:08:09.809 NotebookApp] 302 GET /?token=1faf9f251cadc595c05b88f99fd37eab4e8c2ce8583caa18 (::1) 1.21ms
+[W 21:08:49.397 NotebookApp] Notebook Binary clasification.ipynb is not trusted
+[W 21:08:49.584 NotebookApp] Notebook DataAnalysis.ipynb is not trusted
+[I 21:08:53.793 NotebookApp] Kernel started: 557eba85-ae5a-4f3c-a86a-e3704ddda589
+[I 21:08:54.036 NotebookApp] Kernel started: f8561247-f100-42f5-84a6-717aa13299a4
+[I 21:11:00.189 NotebookApp] Saving file at /DataAnalysis.ipynb
+[W 21:11:00.191 NotebookApp] Notebook DataAnalysis.ipynb is not trusted
+[I 21:12:16.917 NotebookApp] Saving file at /Binary clasification.ipynb
+[W 21:12:16.923 NotebookApp] Notebook Binary clasification.ipynb is not trusted
+[I 21:12:17.104 NotebookApp] Starting buffering for f8561247-f100-42f5-84a6-717aa13299a4:318db6979e77416f86649d732a059e2f
+[W 21:12:33.025 NotebookApp] Notebook DataAnalysis.ipynb is not trusted
+[C 21:12:49.004 NotebookApp] received signal 15, stopping
+[I 21:12:49.005 NotebookApp] Shutting down 2 kernels
+[I 21:12:49.407 NotebookApp] Kernel shutdown: f8561247-f100-42f5-84a6-717aa13299a4
+[I 21:12:49.408 NotebookApp] Kernel shutdown: 557eba85-ae5a-4f3c-a86a-e3704ddda589
+[I 12:10:44.064 NotebookApp] Serving notebooks from local directory: /home/halaka/RECONSTRUCTION
+[I 12:10:44.064 NotebookApp] The Jupyter Notebook is running at:
+[I 12:10:44.064 NotebookApp] http://localhost:8080/?token=758ea46998a7ddeb6a844a38c89aedfb0e178a47bd0f094d
+[I 12:10:44.064 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:10:44.068 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/halaka/.local/share/jupyter/runtime/nbserver-18796-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8080/?token=758ea46998a7ddeb6a844a38c89aedfb0e178a47bd0f094d
+[I 12:11:02.846 NotebookApp] 302 GET /?token=758ea46998a7ddeb6a844a38c89aedfb0e178a47bd0f094d (::1) 0.91ms
+[I 12:11:12.201 NotebookApp] Kernel started: 13e023e6-e20e-4fac-9dcd-8e00f8898fc0
+[I 12:17:12.695 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:19:12.973 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:21:13.523 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:23:13.605 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:25:15.474 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:27:14.077 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:29:14.587 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:31:14.654 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:33:15.109 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:35:15.115 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:45:19.806 NotebookApp] Starting buffering for 13e023e6-e20e-4fac-9dcd-8e00f8898fc0:efcbf1abc12b49ea8ceff3a76196724f
+[I 12:45:20.328 NotebookApp] Kernel restarted: 13e023e6-e20e-4fac-9dcd-8e00f8898fc0
+[I 12:45:20.877 NotebookApp] Restoring connection for 13e023e6-e20e-4fac-9dcd-8e00f8898fc0:efcbf1abc12b49ea8ceff3a76196724f
+[I 12:45:20.877 NotebookApp] Replaying 3 buffered messages
+[I 12:47:12.560 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:49:13.072 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:51:13.117 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:53:15.945 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:55:13.641 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:57:14.117 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 12:59:14.634 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 13:01:14.699 NotebookApp] Saving file at /track_reconstruction.ipynb
+[I 13:03:14.799 NotebookApp] Saving file at /track_reconstruction.ipynb
+[W 15:14:50.878 NotebookApp] WebSocket ping timeout after 119984 ms.
+[I 15:14:55.885 NotebookApp] Starting buffering for 13e023e6-e20e-4fac-9dcd-8e00f8898fc0:efcbf1abc12b49ea8ceff3a76196724f
+[I 18:52:30.422 NotebookApp] 302 GET / (::1) 1.04ms
+[I 18:52:40.694 NotebookApp] 302 GET / (::1) 0.83ms
+[W 20:48:45.317 NotebookApp] WebSocket ping timeout after 119966 ms.
+[I 20:48:50.323 NotebookApp] Starting buffering for 13e023e6-e20e-4fac-9dcd-8e00f8898fc0:dad2c61127c64de78ca94223d9c368f4
+[I 20:42:39.415 NotebookApp] 302 GET / (::1) 1.02ms
+[I 20:43:06.277 NotebookApp] 302 GET / (::1) 1.03ms
+[I 20:46:30.109 NotebookApp] 302 GET / (::1) 0.86ms
+[I 20:49:52.577 NotebookApp] 302 GET / (::1) 1.02ms
+[I 20:53:38.015 NotebookApp] 302 GET / (::1) 1.00ms
+[I 20:56:00.000 NotebookApp] 302 GET / (::1) 1.02ms
+[I 21:03:30.218 NotebookApp] 302 GET / (::1) 1.03ms
+[I 21:05:11.829 NotebookApp] 302 GET / (::1) 0.87ms
+[I 21:09:53.090 NotebookApp] 302 GET / (::1) 0.86ms
+[I 21:13:04.594 NotebookApp] 302 GET / (::1) 0.86ms
+[C 12:22:47.238 NotebookApp] received signal 15, stopping
+[I 12:22:47.239 NotebookApp] Shutting down 1 kernel
+[I 12:22:47.641 NotebookApp] Kernel shutdown: 13e023e6-e20e-4fac-9dcd-8e00f8898fc0
